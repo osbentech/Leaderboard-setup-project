@@ -1,8 +1,7 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 # [To Do list](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/m1_list_structure.md)
-- "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
-
+- "Leaderboard" this is a setup structure to be used in the future projects
 ## Getting Started
 To get a local copy up and running follow these simple steps.
 
@@ -13,10 +12,10 @@ To get a local copy up and running follow these simple steps.
 - Open the terminal on your computer
 - Navigate through directories using [change directory (cd)](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10) command to where you want to clone the repository.
 - **Type the following lists of commands and press ENTER after each command:**
-  - git clone https://github.com/osbentech/To-do-List-.git
+  - git clone https://github.com/osbentech/Leaderboard-setup-project.git
 - *the terminal will send to you information about your download.*
 - *Now get into the new directory*
-  - cd t-Do-List
+  - cd Leaderboard-setup-project/
 - *Now create node_modules with the next command*
     - npm install --save-dev 
   - *Open project in VSC*
@@ -31,7 +30,7 @@ To get a local copy up and running follow these simple steps.
 - **Webpack:** used as a bundle to compile JavaScript modules.
 
 ## 🌎 Live Demo:
-- [toDoList](https://osbentech.github.io/To-Do-list/
+- [toDoList](https://osbentech.github.io/Leaderboard-setup-project/
 
 
 ## Author
