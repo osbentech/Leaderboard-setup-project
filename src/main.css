@@ -1,0 +1,76 @@
+body {
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.overall {
+  margin: 100px 50px 10px 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.recent-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+}
+
+.scores-txt {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.add-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: -110px;
+}
+
+.score-board {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border: 2px solid rgb(123, 119, 119);
+  width: 180px;
+  text-align: start;
+}
+
+.scores {
+  padding-left: 5px;
+  margin: 7px 0;
+}
+
+.score-board:nth-child(odd) {
+  background-color: #d3d3d3;
+}
+
+.mainWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.refbtn {
+  box-shadow: 3px 3px 1px 1px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+
+.sbtn {
+  margin-left: 100px;
+  box-shadow: 3px 3px 1px 1px;
+}
